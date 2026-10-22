@@ -1,0 +1,12 @@
+uninstall previous deps: pip freeze | xargs pip uninstall -y
+
+create environment
+python -m venv venv
+sourve venv/Scripts/activate
+
+1. install jupyter
+    pip install jupyter
+    pip install jupyterlab
+2. start
+    jupyter notebook
+    jupyter lab
