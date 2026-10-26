@@ -1,0 +1,8 @@
+mcp
+httpx
+python-dotenv
+pydantic
+pypdf
+python-docs
+reportlab
+aiofiles
