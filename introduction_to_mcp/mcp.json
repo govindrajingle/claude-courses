@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "deepseek-mcp": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
